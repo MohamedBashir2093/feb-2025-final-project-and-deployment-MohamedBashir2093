@@ -1,25 +1,43 @@
-# Final Project and Deployment
+# Dev Insight Blog
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+A modern, responsive blog website built with HTML5, CSS3, and JavaScript. This project showcases a clean and professional design with features like dark mode, form validation, and smooth animations.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## Features
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+- Responsive design that works on all devices
+- Dark mode toggle with system preference detection
+- Contact form with real-time validation
+- Smooth scrolling and animations
+- Modern CSS with CSS variables
+- LocalStorage for theme preferences
 
-## Tasks
+## Project Structure
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+```
+dev-insight-blog/
+│
+├── index.html           # Home Page
+├── about.html           # About Page
+├── contact.html         # Contact Page
+├── style.css            # Main CSS styling
+├── script.js            # JavaScript for interactivity
+└── assets/
+    └── mask.webp         # Logo or any images
+```
 
-Good luck and happy coding! 🚀💻
+## Setup and Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/dev-insight-blog.git
+   ```
+
+2. Open the project in your favorite code editor.
+
+3. To view the website locally, you can use any of these methods:
+   - Open `index.html` directly in your browser
+   - Use a local server (e.g., Live Server extension in VS Code)
+   
+## Deployment
+
+The website is deployed on GitHub Pages and Here is the URL
