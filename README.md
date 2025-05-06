@@ -1,4 +1,5 @@
 # Dev Insight Blog
+https://mohamedbashir2093.github.io/feb-2025-final-project-and-deployment-MohamedBashir2093/
 
 A modern, responsive blog website built with HTML5, CSS3, and JavaScript. This project showcases a clean and professional design with features like dark mode, form validation, and smooth animations.
 
@@ -29,7 +30,7 @@ dev-insight-blog/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dev-insight-blog.git
+   https://github.com/MohamedBashir2093/feb-2025-final-project-and-deployment-MohamedBashir2093.git
    ```
 
 2. Open the project in your favorite code editor.
@@ -40,4 +41,4 @@ dev-insight-blog/
    
 ## Deployment
 
-The website is deployed on GitHub Pages and Here is the URL
+The website is deployed on GitHub Pages and Here is the URL https://mohamedbashir2093.github.io/feb-2025-final-project-and-deployment-MohamedBashir2093/
